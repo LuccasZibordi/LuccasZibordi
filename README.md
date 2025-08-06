@@ -104,7 +104,7 @@ Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar
 📌 Projetos de console, algoritmos, mini sistemas e lógica aplicada em Java.  
 📍 Enfatiza POO, controle de fluxo, boas práticas e estrutura modular.  
 🛠️ `Java` `Orientação a Objetos` `Algoritmos`  
-📷 _[Adicione aqui uma imagem ou gif do seu projeto]_
+📷 
 
 ---
 
@@ -112,7 +112,7 @@ Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar
 📌 Códigos escritos em Assembly Intel x86, com foco em controle direto de registradores, buffers e conversões.  
 📍 Estudo de lógica binária, aritmética e manipulação de hardware via linguagem de baixo nível.  
 🛠️ `Assembly` `x86` `Baixo Nível` `Lógica Binária`  
-📷 _[Adicione uma imagem do terminal com execução dos códigos]_
+📷 <img width="1536" height="975" alt="image" src="https://github.com/user-attachments/assets/856ad58a-9b76-437b-86f6-ed6cbabd11e8" />
 
 ---
 
@@ -120,15 +120,15 @@ Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar
 📌 Exercícios práticos em linguagem C: vetores, matrizes, manipulação de strings e ponteiros.  
 📍 Foco em estrutura de dados, lógica de programação e aprendizado da base da computação.  
 🛠️ `C` `Estruturas` `Algoritmos` `Baixo Nível`  
-📷 _[Prints opcionais de resultados no terminal]_
-
+📷 
 ---
 
 ### 🔬 [Projeto-de_Sistemas-Digitais](https://github.com/LuccasZibordi/Projeto-de_Sistemas-Digitais)
 📌 Conjunto de implementações em VHDL para simulação e construção de circuitos digitais (via Quartus).  
 📍 Projetos desenvolvidos na disciplina "Projetos de Sistemas Digitais" da PUC-Campinas.  
 🛠️ `VHDL` `FPGA` `Quartus II` `Circuitos Lógicos`  
-📷 _[Simulações no Quartus ou arquitetura dos circuitos]_
+📷 <img width="1539" height="982" alt="image" src="https://github.com/user-attachments/assets/769adfe8-f981-465a-9e7f-4fcb9899c715" />
+
 
 ---
 
@@ -136,6 +136,7 @@ Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar
 📌 Site simples desenvolvido do zero usando HTML, CSS e JS, como parte do estudo prático de Web.  
 📍 Foco em responsividade, estrutura semântica e boas práticas de acessibilidade.  
 🛠️ `HTML5` `CSS3` `JavaScript` `Front-End`  
-📷 _[Print da página renderizada no navegador]_
+📷 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c4c3abbf-6c4b-4b23-9f46-1cbed4c8dd8a" />
+_
 
 ---
