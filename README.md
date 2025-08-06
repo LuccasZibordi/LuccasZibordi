@@ -1,3 +1,11 @@
+## 💻 Terminal Style (Java Edition)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=public+class+LuccasZibordi+%7B;System.out.println(%22Bem-vindo!%22);%7D" alt="Java typing animation" />
+</p>
+
+
+
 # 👋 Olá! Eu sou o Luccas Gomes Zibordi
 
 Sou estudante de **Engenharia de Computação** na **Pontifícia Universidade Católica de Campinas (PUC-Campinas)**, atualmente no 2º ano da graduação. Minha formação combina disciplinas sólidas de exatas com uma abordagem prática voltada ao mercado de tecnologia — da eletrônica de baixo nível à construção de soluções de software completas.
@@ -86,15 +94,6 @@ Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar
   <!-- GitHub Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=LuccasZibordi&theme=radical&no-frame=true&title=Commits,Repositories,Stars,Followers,PullRequest" />
 </p>
-
----
-
-## 💻 Terminal Style (Java Edition)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=public+class+LuccasZibordi+%7B;System.out.println(%22Bem-vindo!%22);%7D" alt="Java typing animation" />
-</p>
-
 ---
 
 ## 🧑‍💻 Linha de Comando Hacker (fake, mas estilosa)
