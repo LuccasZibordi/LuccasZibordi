@@ -1,4 +1,4 @@
-# 💻 Terminal Style 
+# 💻 Bem vindo!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=public+class+LuccasZibordi+%7B;System.out.println(%22Bem-vindo!%22);%7D" alt="Java typing animation" />
@@ -160,9 +160,9 @@ Se você curtiu algum projeto, tem uma ideia maluca pra desenvolver, ou só quer
 
 ---
 
-## 🧠 Frase que me representa
+## 🧠 Frase que me motiva
 
-> “A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.” — Albert Einstein
+> “We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Aristóteles.
 
 ---
 
