@@ -92,12 +92,3 @@ Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar
 </p>
 ---
 
-## 🧑‍💻 Linha de Comando Hacker (fake, mas estilosa)
-
-```bash
-~$ javac Main.java
-~$ java Main
->> Deploying to GitHub...
->> Conectado com sucesso!
->> Preparado para o próximo desafio 🚀
-<p align="center"> <img src="https://img.shields.io/badge/Java_is_life-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Coding_Mode-ON-success?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Think_Binary-101010-blue?style=for-the-badge" /> </p>```
