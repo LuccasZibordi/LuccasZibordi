@@ -151,7 +151,7 @@ Se você curtiu algum projeto, tem uma ideia maluca pra desenvolver, ou só quer
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-gengo-8157b72a1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luccas-gomes-zibordi-3592b3379)
 [![Gmail](https://img.shields.io/badge/-luccaszibordi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccaszibordi@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuccasZibordi)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luccaszibordi)
