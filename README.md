@@ -84,7 +84,7 @@ Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar
 
 ---
 
-## 🏆 Trophies & Vibes Dev
+## 🏆 Trophies 
 
 <p align="center">
   <!-- GitHub Profile Trophy -->
@@ -140,3 +140,33 @@ Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar
 _
 
 ---
+
+---
+
+## 🤝 Vamos Conectar?
+
+Se você curtiu algum projeto, tem uma ideia maluca pra desenvolver, ou só quer trocar uma ideia sobre tecnologia, robótica ou desenvolvimento de baixo nível — **me chama!**
+
+📬 Estou sempre aberto a colaborações, mentoria, aprendizado mútuo e oportunidades profissionais.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-gengo-8157b72a1)
+[![Gmail](https://img.shields.io/badge/-luccaszibordi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccaszibordi@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuccasZibordi)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luccaszibordi)
+
+</div>
+
+---
+
+## 🧠 Frase que me representa
+
+> “A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.” — Albert Einstein
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=System.out.println(%22Thanks+for+visiting!%22);" alt="Thank you message" />
+</p>
+
