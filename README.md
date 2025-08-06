@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Luccas Zibordi
+# 👋 Olá! Eu sou o Luccas Gomes Zibordi
 
 Sou estudante de **Engenharia de Computação** na **Pontifícia Universidade Católica de Campinas (PUC-Campinas)**, atualmente no 2º ano da graduação. Minha formação combina disciplinas sólidas de exatas com uma abordagem prática voltada ao mercado de tecnologia — da eletrônica de baixo nível à construção de soluções de software completas.
 
@@ -34,7 +34,7 @@ Além do conteúdo técnico, tenho orgulho em destacar minha participação ativ
 Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar tecnologia com propósito**. Meu foco está em desenvolver soluções eficientes, escaláveis e bem pensadas — com código limpo e mentalidade colaborativa.
 
 ---
-## 🛠️ Tecnologias que domino (e adoro quebrar a cabeça 😄)
+## 🛠️ Tecnologias que domino ( e estudei bastante durante a graduação )
 
 ### ⚙️ Baixo Nível / Hardware próximo
 ![Assembly](https://img.shields.io/badge/-Assembly-20232A?style=flat&logo=gnu&logoColor=white)
@@ -56,3 +56,25 @@ Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar
 ---
 
 ⚡ Estou sempre em busca de novos desafios e ferramentas que me ajudem a criar soluções mais inteligentes, performáticas e elegantes.
+
+## 📊 GitHub Stats & Atividade
+
+<div align="center">
+
+<!-- Estatísticas principais -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=LuccasZibordi&show_icons=true&theme=radical&hide_border=true" />
+
+<!-- Linguagens mais usadas -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasZibordi&layout=compact&theme=radical&hide_border=true" />
+
+<!-- GitHub Streak -->
+<img width="97%" src="https://streak-stats.demolab.com/?user=LuccasZibordi&theme=radical&hide_border=true" />
+
+<!-- 🐵 Donkey Kong andando aqui em cima -->
+<p align="center">
+  <!-- Substitua o link abaixo pelo seu gif do DK -->
+  <img src="https://64.media.tumblr.com/c8729e028d0d880a5066f134cccb40da/ac691d8c6cbcb66b-ff/s400x600/7dda33fa6fed0022ec31dadb6cb14e4f738f9515.gif" width="150px" alt="Donkey Kong andando">
+</p>
+
+</div>
+
