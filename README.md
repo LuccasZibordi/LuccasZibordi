@@ -92,3 +92,50 @@ Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar
 </p>
 ---
 
+---
+
+## 🚀 Projetos em Destaque
+
+> 💡 Abaixo estão alguns dos repositórios que melhor representam minha jornada, habilidades técnicas e criatividade como desenvolvedor.
+
+---
+
+### 🧠 [Projetos_Java](https://github.com/LuccasZibordi/Projetos_Java)
+📌 Projetos de console, algoritmos, mini sistemas e lógica aplicada em Java.  
+📍 Enfatiza POO, controle de fluxo, boas práticas e estrutura modular.  
+🛠️ `Java` `Orientação a Objetos` `Algoritmos`  
+📷 _[Adicione aqui uma imagem ou gif do seu projeto]_
+
+---
+
+### 🧮 [Projetos_Assembly](https://github.com/LuccasZibordi/Projetos_Assembly)
+📌 Códigos escritos em Assembly Intel x86, com foco em controle direto de registradores, buffers e conversões.  
+📍 Estudo de lógica binária, aritmética e manipulação de hardware via linguagem de baixo nível.  
+🛠️ `Assembly` `x86` `Baixo Nível` `Lógica Binária`  
+📷 _[Adicione uma imagem do terminal com execução dos códigos]_
+
+---
+
+### 🔧 [Projetos_c](https://github.com/LuccasZibordi/Projetos_c)
+📌 Exercícios práticos em linguagem C: vetores, matrizes, manipulação de strings e ponteiros.  
+📍 Foco em estrutura de dados, lógica de programação e aprendizado da base da computação.  
+🛠️ `C` `Estruturas` `Algoritmos` `Baixo Nível`  
+📷 _[Prints opcionais de resultados no terminal]_
+
+---
+
+### 🔬 [Projeto-de_Sistemas-Digitais](https://github.com/LuccasZibordi/Projeto-de_Sistemas-Digitais)
+📌 Conjunto de implementações em VHDL para simulação e construção de circuitos digitais (via Quartus).  
+📍 Projetos desenvolvidos na disciplina "Projetos de Sistemas Digitais" da PUC-Campinas.  
+🛠️ `VHDL` `FPGA` `Quartus II` `Circuitos Lógicos`  
+📷 _[Simulações no Quartus ou arquitetura dos circuitos]_
+
+---
+
+### 🌐 [Projeto_Desenvolvimento_Web](https://github.com/LuccasZibordi/Projeto_Desenvolvimento_Web)
+📌 Site simples desenvolvido do zero usando HTML, CSS e JS, como parte do estudo prático de Web.  
+📍 Foco em responsividade, estrutura semântica e boas práticas de acessibilidade.  
+🛠️ `HTML5` `CSS3` `JavaScript` `Front-End`  
+📷 _[Print da página renderizada no navegador]_
+
+---
