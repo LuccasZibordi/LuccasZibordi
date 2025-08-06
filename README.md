@@ -78,3 +78,31 @@ Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar
 
 </div>
 
+---
+
+## 🏆 Trophies & Vibes Dev
+
+<p align="center">
+  <!-- GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=LuccasZibordi&theme=radical&no-frame=true&title=Commits,Repositories,Stars,Followers,PullRequest" />
+</p>
+
+---
+
+## 💻 Terminal Style (Java Edition)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=public+class+LuccasZibordi+%7B;System.out.println(%22Bem-vindo!%22);%7D" alt="Java typing animation" />
+</p>
+
+---
+
+## 🧑‍💻 Linha de Comando Hacker (fake, mas estilosa)
+
+```bash
+~$ javac Main.java
+~$ java Main
+>> Deploying to GitHub...
+>> Conectado com sucesso!
+>> Preparado para o próximo desafio 🚀
+<p align="center"> <img src="https://img.shields.io/badge/Java_is_life-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Coding_Mode-ON-success?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Think_Binary-101010-blue?style=for-the-badge" /> </p>```
