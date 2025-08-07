@@ -170,3 +170,6 @@ Se você curtiu algum projeto, tem uma ideia maluca pra desenvolver, ou só quer
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=System.out.println(%22Thanks+for+visiting!%22);" alt="Thank you message" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LuccasZibordi/LuccasZibordi/output/snake.svg" alt="Snake animation" />
+</p>
