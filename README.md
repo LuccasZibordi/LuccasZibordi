@@ -1,44 +1,18 @@
-# 💻 Bem vindo!
+# 💻 Olá, eu sou Luccas Gomes Zibordi 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=public+class+LuccasZibordi+%7B;System.out.println(%22Bem-vindo!%22);%7D" alt="Java typing animation" />
 </p>
 
-Sou estudante de **Engenharia de Computação** na **Pontifícia Universidade Católica de Campinas (PUC-Campinas)**, atualmente no 2º ano da graduação. Minha formação combina disciplinas sólidas de exatas com uma abordagem prática voltada ao mercado de tecnologia — da eletrônica de baixo nível à construção de soluções de software completas.
+Estudante de Engenharia de Computação na PUC-Campinas, com interesse em desenvolvimento de software, sistemas de baixo nível, hardware e soluções web/mobile.
 
-🔎 Ao longo do curso, venho me aprofundando em áreas como:
-
-- **Programação de Baixo Nível** (Assembly, VHDL)
-- **Desenvolvimento Web** (HTML, CSS)
-- **Estruturas de Dados e Algoritmos**
-- **Linguagens de Programação** como C e Java
-- **Sistemas Digitais e Eletrônica**
-- **Banco de Dados, Redes e Arquitetura de Computadores**
-- **Engenharia de Software e Metodologias Ágeis**
-
-Além do conteúdo técnico, tenho orgulho em destacar minha participação ativa nas **disciplinas de Formação Profissional**, com práticas voltadas para:
-
-- **Etiqueta em reuniões corporativas**
-- **Postura e apresentação profissional**
-- **Comunicação assertiva e escuta ativa**
-- **Preparação para entrevistas e vivência no ambiente empresarial**
-
-💬 Tenho domínio avançado da **língua inglesa**, com experiência em ambientes multilíngues e comunicação fluida com profissionais de diferentes países. Essa habilidade tem sido essencial tanto para consumo de conteúdo técnico de ponta quanto para colaborar em projetos acadêmicos com referências internacionais.
-
+## Sobre mim
+- 2º ano de Engenharia de Computação
+- Interesse em C, Java, Flutter, sistemas digitais e desenvolvimento web
+- Experiência acadêmica com Assembly, VHDL, estruturas de dados, redes e banco de dados
+- Inglês avançado
 ---
-
-## 💼 Meu perfil profissional é movido por:
-
-- 🧠 **Aprendizado contínuo**, unindo teoria e prática
-- 🤝 **Trabalho em equipe** com empatia e responsabilidade
-- ⏳ **Comprometimento com prazos** e entregas técnicas de qualidade
-- 🧭 **Liderança natural** em projetos Web e acadêmicos
-- 🛠️ **Versatilidade** entre software, hardware e lógica aplicada
-
-Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar tecnologia com propósito**. Meu foco está em desenvolver soluções eficientes, escaláveis e bem pensadas — com código limpo e mentalidade colaborativa.
-
----
-## 🛠️ Tecnologias que domino ( e estudei bastante durante a graduação )
+## 🛠️Tecnologias que estudo e utilizo
 
 ### ⚙️ Baixo Nível / Hardware próximo
 ![Assembly](https://img.shields.io/badge/-Assembly-20232A?style=flat&logo=gnu&logoColor=white)
@@ -57,9 +31,6 @@ Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
----
-
-⚡ Estou sempre em busca de novos desafios e ferramentas que me ajudem a criar soluções mais inteligentes, performáticas e elegantes.
 
 ## 📊 GitHub Stats & Atividade
 
@@ -82,7 +53,7 @@ Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar
 
 </div>
 
----
+
 
 ## 🏆 Trophies 
 
@@ -100,54 +71,88 @@ Acredito que o verdadeiro diferencial de um engenheiro está em saber **integrar
 
 ---
 
-### 🧠 [Projetos_Java](https://github.com/LuccasZibordi/Projetos_Java)
-📌 Projetos de console, algoritmos, mini sistemas e lógica aplicada em Java.  
-📍 Enfatiza POO, controle de fluxo, boas práticas e estrutura modular.  
-🛠️ `Java` `Orientação a Objetos` `Algoritmos`  
-📷 
+### 🦆 [DuckHat](https://github.com/brunoselingardi/duckhat)
 
----
+Aplicativo mobile desenvolvido em **Flutter** com foco em agendamento de serviços, organização de telas e experiência de usuário.
+
+O projeto simula uma plataforma onde usuários podem visualizar serviços, acessar páginas de detalhes, navegar entre telas e interagir com uma interface moderna inspirada em aplicativos reais de marketplace e agendamento.
+
+Durante o desenvolvimento, trabalhei com estruturação de páginas, componentes reutilizáveis, estilização de interface, organização visual e integração progressiva com backend. O projeto também foi importante para aprofundar meus conhecimentos em desenvolvimento mobile, arquitetura de telas e boas práticas de UI.
+
+**Principais aprendizados:**
+
+* Criação de interfaces responsivas com Flutter
+* Organização de componentes e páginas
+* Navegação entre telas
+* Construção de layout com foco em usabilidade
+* Trabalho em equipe com versionamento via Git e GitHub
+
+**Tecnologias utilizadas:**
+`Flutter` `Dart` `Git` `GitHub` `UI Design` `Mobile Development`
+
+### 🧵 [Toytrace](https://github.com/LuccasZibordi/Projeto_toytrace_grupo1)
+
+Projeto desenvolvido em **C** para estudo de Sistemas Operacionais, com foco no rastreamento de chamadas de sistema em ambiente Linux.
+
+O Toytrace funciona como um tracer simplificado, capaz de acompanhar a execução de um processo filho e identificar suas syscalls por meio de recursos como `ptrace`, `fork`, `execvp` e `waitpid`.
+
+Durante o projeto, aprofundei conceitos fundamentais de baixo nível, como criação de processos, sincronização entre processo pai e filho, leitura de registradores, tratamento de sinais e funcionamento interno das chamadas de sistema no Linux.
+
+**Principais aprendizados:**
+
+* Uso de `ptrace` para rastrear processos
+* Manipulação de processos com `fork` e `execvp`
+* Controle de execução com `waitpid`
+* Leitura de registradores para identificar syscalls
+* Organização de código em C para um projeto modular
+* Aplicação prática de conceitos de Sistemas Operacionais
+
+**Tecnologias utilizadas:**
+`C` `Linux` `ptrace` `Syscalls` `Sistemas Operacionais` `Git`
+
+### ⛏️ MineFarms
+
+Wiki web inspirada no universo de **Minecraft**, desenvolvida com **HTML, CSS, JavaScript e Bootstrap**, com foco em organização de conteúdo, interface responsiva e experiência de navegação.
+
+O projeto apresenta informações sobre elementos do jogo em formato de wiki, permitindo ao usuário acessar conteúdos organizados de maneira clara e visual. A proposta foi criar uma página temática, funcional e agradável, aplicando conceitos de desenvolvimento front-end e estruturação de páginas web.
+
+Durante o desenvolvimento, trabalhei com construção de layout, estilização personalizada, componentes do Bootstrap, organização de seções, responsividade e manipulação de elementos com JavaScript. O projeto também foi importante para praticar a criação de interfaces mais completas e com identidade visual própria.
+
+**Principais aprendizados:**
+
+* Estruturação de páginas com HTML semântico
+* Estilização e responsividade com CSS
+* Uso de componentes do Bootstrap
+* Organização de conteúdo em formato de wiki
+* Criação de interface temática e visualmente consistente
+* Aplicação de JavaScript para interatividade no front-end
+
+**Tecnologias utilizadas:**
+`HTML5` `CSS3` `JavaScript` `Bootstrap` `Front-End` `Web Design`
 
 ### 🧮 [Projetos_Assembly](https://github.com/LuccasZibordi/Projetos_Assembly)
-📌 Códigos escritos em Assembly Intel x86, com foco em controle direto de registradores, buffers e conversões.  
-📍 Estudo de lógica binária, aritmética e manipulação de hardware via linguagem de baixo nível.  
-🛠️ `Assembly` `x86` `Baixo Nível` `Lógica Binária`  
-📷 <img width="1536" height="975" alt="image" src="https://github.com/user-attachments/assets/856ad58a-9b76-437b-86f6-ed6cbabd11e8" />
 
----
+Conjunto de projetos desenvolvidos em **Assembly Intel x86**, com foco em lógica de baixo nível, manipulação de registradores, controle de fluxo e funcionamento interno da execução de programas.
 
-### 🔧 [Projetos_c](https://github.com/LuccasZibordi/Projetos_c)
-📌 Exercícios práticos em linguagem C: vetores, matrizes, manipulação de strings e ponteiros.  
-📍 Foco em estrutura de dados, lógica de programação e aprendizado da base da computação.  
-🛠️ `C` `Estruturas` `Algoritmos` `Baixo Nível`  
-📷 
----
+O principal destaque do repositório é o trabalho final: uma versão simples de **Batalha Naval**, implementada em Assembly. O projeto aplica conceitos fundamentais da linguagem, como leitura e escrita de dados, comparação de valores, desvios condicionais, manipulação de memória e organização da lógica do jogo em baixo nível.
 
-### 🔬 [Projeto-de_Sistemas-Digitais](https://github.com/LuccasZibordi/Projeto-de_Sistemas-Digitais)
-📌 Conjunto de implementações em VHDL para simulação e construção de circuitos digitais (via Quartus).  
-📍 Projetos desenvolvidos na disciplina "Projetos de Sistemas Digitais" da PUC-Campinas.  
-🛠️ `VHDL` `FPGA` `Quartus II` `Circuitos Lógicos`  
-📷 <img width="1539" height="982" alt="image" src="https://github.com/user-attachments/assets/769adfe8-f981-465a-9e7f-4fcb9899c715" />
+Durante o desenvolvimento, aprofundei minha compreensão sobre como operações aparentemente simples em linguagens de alto nível exigem controle detalhado quando implementadas diretamente em Assembly. A criação da Batalha Naval foi essencial para praticar raciocínio lógico, estruturação de fluxo, validação de entradas e controle do estado do jogo.
+
+**Principais aprendizados:**
+
+* Manipulação de registradores e memória
+* Uso de instruções condicionais e desvios
+* Construção de lógica de jogo em baixo nível
+* Entrada e saída de dados em Assembly
+* Organização de fluxo para menus e turnos
+* Comparação de posições e validação de jogadas
+* Compreensão prática da relação entre software e arquitetura do processador
+
+**Tecnologias utilizadas:**
+`Assembly` `x86` `Baixo Nível` `Lógica Binária` `Arquitetura de Computadores` `Sistemas Computacionais`
 
 
----
-
-### 🌐 [Projeto_Desenvolvimento_Web](https://github.com/LuccasZibordi/Projeto_Desenvolvimento_Web)
-📌 Site simples desenvolvido do zero usando HTML, CSS e JS, como parte do estudo prático de Web.  
-📍 Foco em responsividade, estrutura semântica e boas práticas de acessibilidade.  
-🛠️ `HTML5` `CSS3` `JavaScript` `Front-End`  
-📷 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c4c3abbf-6c4b-4b23-9f46-1cbed4c8dd8a" />
-_
-
----
-
----
-
-## 🤝 Vamos Conectar?
-
-Se você curtiu algum projeto, tem uma ideia maluca pra desenvolver, ou só quer trocar uma ideia sobre tecnologia, robótica ou desenvolvimento de baixo nível — **me chama!**
-
-📬 Estou sempre aberto a colaborações, mentoria, aprendizado mútuo e oportunidades profissionais.
+Estou aberto a colaborações, projetos acadêmicos, oportunidades de estágio e conversas sobre desenvolvimento, hardware e tecnologia.
 
 <div align="center">
 
@@ -158,13 +163,6 @@ Se você curtiu algum projeto, tem uma ideia maluca pra desenvolver, ou só quer
 
 </div>
 
----
-
-## 🧠 Frase que me motiva
-
-> “We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Aristóteles.
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=System.out.println(%22Thanks+for+visiting!%22);" alt="Thank you message" />
