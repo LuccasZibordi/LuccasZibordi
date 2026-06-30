@@ -9,7 +9,7 @@ Sou estudante de **Engenharia de Computação** na **Pontifícia Universidade Ca
 🔎 Ao longo do curso, venho me aprofundando em áreas como:
 
 - **Programação de Baixo Nível** (Assembly, VHDL)
-- **Desenvolvimento Web** (HTML, CSS, JavaScript)
+- **Desenvolvimento Web** (HTML, CSS)
 - **Estruturas de Dados e Algoritmos**
 - **Linguagens de Programação** como C e Java
 - **Sistemas Digitais e Eletrônica**
