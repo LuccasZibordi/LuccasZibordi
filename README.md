@@ -5,30 +5,7 @@
 </p>
 
 Estudante de Engenharia de Computação na PUC-Campinas, com interesse em desenvolvimento de software, sistemas de baixo nível, hardware e soluções web/mobile.
-
-## Sobre mim
-- 2º ano de Engenharia de Computação
-- Interesse em C, Java, Flutter, sistemas digitais e desenvolvimento web
-- Experiência acadêmica com Assembly, VHDL, estruturas de dados, redes e banco de dados
-- Inglês avançado
 ---
-## 🛠️Tecnologias que estudo e utilizo
-
-### ⚙️ Baixo Nível / Hardware próximo
-![Assembly](https://img.shields.io/badge/-Assembly-20232A?style=flat&logo=gnu&logoColor=white)
-![VHDL](https://img.shields.io/badge/-VHDL-blueviolet?style=flat&logo=verilog&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-
-### ☕ Programação Geral
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-### 🌐 Desenvolvimento Web
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
 
